@@ -5,7 +5,7 @@
 __author__ = "Hans Liss"
 __copyright__ = "Copyright 2021, Hans Liss"
 __license__ = "BSD 2-Clause License"
-__version__ = "0.1"
+__version__ = "1.0"
 __maintainer__ = "Hans Liss"
 __email__ = "Hans@Liss.nu"
 __status__ = "Testing"
